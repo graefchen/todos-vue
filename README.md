@@ -1,23 +1,6 @@
 # todos-vue
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Recommended Browser Setup
-
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+Small todo app written in vue (that is also a PWA)
 
 ## Project Setup
 
@@ -36,3 +19,9 @@ yarn dev
 ```sh
 yarn build
 ```
+
+## References used:
+
+- [Modern Vue.js Crash Course 2025 | with TypeScript + script setup + Composition API by Syntax](https://youtu.be/5oKpoqmUj64?t=2038)
+- [Vue.js Nation 2025: Alexander Opalic ~ Local-First Web Development and How Can We Build It With Vue by Vuew School](https://youtu.be/1cn93gVnMSc)
+- [Create a Native-Like App in 4 Steps: PWA Magic with Vue 3 and Vite by alexop.dev](https://alexop.dev/posts/create-pwa-vue3-vite-4-steps/)
